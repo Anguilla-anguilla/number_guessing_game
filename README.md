@@ -32,3 +32,5 @@ Welcome to the Number Guessing Game! This is a simple and fun game where the com
 6) Win the Game: Once you guess the correct number, the game will congratulate you and display the number of attempts it took to win and a high scores you've got under each chosen level.
 
 7) Play Again: You can choose to play again if you'd like.
+
+[Project URL](https://roadmap.sh/projects/number-guessing-game)

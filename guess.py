@@ -120,8 +120,7 @@ def game(attempts):
                 return False
         except ValueError:
             print('Invalid input! Please enter a number.')
-            
-        
+
         if n == 7:
             y = input("Press 'y' if you want a hint or anything else if not:")
             if y == 'y':
