@@ -96,7 +96,6 @@ def hint(random):
 def game(attempts):
     print("Let's start!")
     random = randint(1, 101)
-    print(random)
     n = 0
     while attempts > 0:
         try:
@@ -134,7 +133,7 @@ def game(attempts):
 def main():
     high_score = HighScore()
     quit_game = False
-    # welcome()
+    welcome()
     while not quit_game:
         choice = level()
         attempts_count = attempts(choice)
